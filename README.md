@@ -1,8 +1,8 @@
 ## Hola!
 
-Actualmente trabajo desarrollando módulos, manteniendo e implementando varios sistemas en una universidad.
+* Actualmente trabajo desarrollando módulos, manteniendo e implementando varios sistemas en una universidad.
 
-Me defino como una persona dinámica, perseverante, paciente, respetuosa y sensata. En mi tiempo libre me apasiona aprender idiomas, la apicultura y también soy entusiasta de GNU/Linux.
+* Me defino como una persona dinámica, perseverante, paciente, respetuosa y sensata. En mi tiempo libre me apasiona aprender idiomas, la apicultura y también soy entusiasta de GNU/Linux.
 
 ### Tecnologías
 
@@ -34,3 +34,8 @@ Me defino como una persona dinámica, perseverante, paciente, respetuosa y sensa
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c05m4r&hide=javascript,html,jupyter%20notebook,blade)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contacto
+
+<p><a href="https://www.linkedin.com/in/marcosgabrielmiller/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
